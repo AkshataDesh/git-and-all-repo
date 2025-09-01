@@ -4,3 +4,11 @@ Feature_addbutton(){
     some more code
     done now its almost done 
 }
+Feature_2(){
+added NGRX to the already existing code
+new code
+modified
+added
+feature is working 
+
+}
