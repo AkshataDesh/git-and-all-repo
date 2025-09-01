@@ -1,6 +1,8 @@
-line one of file one 
+Feature_2(){
+added NGRX to the already existing code
+new code
+modified
+added
+feature is working 
 
-from Visual studio code i have written this line 
-new line added from visual studio code 
-
-fourth line from visual studio.
+}
